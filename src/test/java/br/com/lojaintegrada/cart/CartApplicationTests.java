@@ -1,10 +1,10 @@
-package br.com.lojaintegrada.carrinho;
+package br.com.lojaintegrada.cart;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApiDeCarrinhoDeComprasApplicationTests {
+class CartApplicationTests {
 
     @Test
     void contextLoads() {
