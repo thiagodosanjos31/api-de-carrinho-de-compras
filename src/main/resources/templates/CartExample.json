@@ -1,0 +1,24 @@
+{
+  "cartId": "cart-xpto-1",
+  "productList":
+  [
+    {
+      "id": "xpto",
+      "name": "jarra",
+      "price": 19.99
+    },
+    {
+      "id": "qwer",
+      "name": "caderno",
+      "price": 10.99
+    }
+  ],
+  "coupon": {
+    "name": "MENOS5",
+    "beginDate": "30/04/2022 00:00:00",
+    "endDate": "01/05/2022 00:00:00",
+    "discount": 5.00
+  },
+  "subTotal": 30.98,
+  "total": 24.98
+}
